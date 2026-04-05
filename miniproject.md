@@ -1,6 +1,9 @@
 tinkercad link - https://www.tinkercad.com/things/eA2G7OB80Pw-mini1
+simulation vedio - https://drive.google.com/file/d/1BXtY8sC3WwdP1qtiw1uukyU-g5H-oS87/view?usp=drive_link
+
 
 MINI PROJECT (Smart Distance Alert System) writeup
+
 What it does – 
 Detects any obstacle that closer that 100cm (1m) to the sensors and alerts if there any.
 
