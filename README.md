@@ -1,7 +1,6 @@
 # Mars Club Recruitment Submission
 
-## 👤 Name:
-Kuladeep K
+## 👤 Name: Kuladeep K
 
 ## 📌 Overview
 This repository contains my answers and mini project for Mars Club recruitment.
