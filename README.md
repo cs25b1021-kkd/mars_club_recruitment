@@ -1,7 +1,7 @@
 # Mars Club Recruitment Submission
 
 ## 👤 Name:
-Your Name
+Kuladeep K
 
 ## 📌 Overview
 This repository contains my answers and mini project for Mars Club recruitment.
@@ -11,15 +11,15 @@ This repository contains my answers and mini project for Mars Club recruitment.
 ## 📂 Questions
 
 ### 🔹 Question 1
-👉 [View Answer](./Question1.md)
+👉 [View Answer](./question1.md)
 
 ### 🔹 Question 2
-👉 [View Answer](./Question2.md)
+👉 [View Answer](./question2.md)
 
 ### 🔹 Question 3
-👉 [View Answer](./Question3.md)
+👉 [View Answer](./question3.md)
 
 ---
 
 ## 🚀 Mini Project
-👉 [View Project](./MiniProject/README.md)
+👉 [View Project](./miniproject/README.md)
