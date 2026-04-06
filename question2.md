@@ -1,6 +1,6 @@
 tinker cad link - https://www.tinkercad.com/things/6es5P8rRuJb-task1q2
 
-QUESTION 2 (Controlling colour of RGB LED and blinking speed of an other LED with potentiometer) writeup
+QUESTION 2 (Controlling colour of RGB LED and blinking speed of an other LED with potentiometer) **writeup**
 
 Circuit connections – 
 the red, blue, green terminals of the RGB led are connected to a resistor and then to the 
