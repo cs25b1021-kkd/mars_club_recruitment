@@ -1,6 +1,6 @@
 tinkercad link - https://www.tinkercad.com/things/exKrdIMNClL-task3q3
 
-QUESTION 3 (Build a reaction time tester) writeup
+QUESTION 3 (Build a reaction time tester) **writeup**
 
 Circuit connections –  
 Here, I connected the one side terminal of button to the Arduino pin and the other to the 
