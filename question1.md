@@ -1,6 +1,6 @@
 tinkercad link - https://www.tinkercad.com/things/d4hp8NZV7Yz-task1q1
 
-QUESTION 1 (Blinking LED with different time interval) writeup
+QUESTION 1 (Blinking LED with different time interval) **writeup**
 
 Circuit connections -
 I have connected the + terminals of the LEDs to the digital pins of Arduino (D2, D3, D4) and
