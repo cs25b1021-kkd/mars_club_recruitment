@@ -22,3 +22,6 @@ This repository contains my answers and mini project for Mars Club recruitment.
 
 ## 🚀 Mini Project
 👉 [View Project](./miniproject.md)
+
+## 🚀 Mini Project(additional)
+👉 [View Project](./miniproject1.md)
