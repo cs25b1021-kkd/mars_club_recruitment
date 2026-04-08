@@ -1,5 +1,4 @@
-tinkercad link - https://www.tinkercad.com/things/exKrdIMNClL-task3q3
-
+tinkercad link - https://www.tinkercad.com/things/9dsUwu6y3Vq-task1-q3
 QUESTION 3 (Build a reaction time tester) **writeup**
 
 Circuit connections –  
