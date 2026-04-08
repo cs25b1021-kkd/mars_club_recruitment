@@ -1,4 +1,4 @@
-tinker cad link - https://www.tinkercad.com/things/6es5P8rRuJb-task1q2
+tinker cad link - https://www.tinkercad.com/things/7b1VK0Z01Ld-task1-q2
 
 QUESTION 2 (Controlling colour of RGB LED and blinking speed of an other LED with potentiometer) **writeup**
 
