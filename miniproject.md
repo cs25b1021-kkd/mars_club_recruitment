@@ -1,4 +1,4 @@
-tinkercad link - https://www.tinkercad.com/things/eA2G7OB80Pw-mini1
+tinkercad link - https://www.tinkercad.com/things/0h9a62p5cEM-miniprojectmain
 
 simulation vedio - https://drive.google.com/file/d/1BXtY8sC3WwdP1qtiw1uukyU-g5H-oS87/view?usp=drive_link
 
