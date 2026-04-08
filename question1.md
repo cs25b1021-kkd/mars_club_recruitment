@@ -1,4 +1,4 @@
-tinkercad link - https://www.tinkercad.com/things/d4hp8NZV7Yz-task1q1
+tinkercad link - https://www.tinkercad.com/things/i48Mlmk9K6Q-task1-q1
 
 QUESTION 1 (Blinking LED with different time interval) **writeup**
 
