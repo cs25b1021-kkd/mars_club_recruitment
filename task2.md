@@ -1,11 +1,11 @@
-task2 - Control the speed of a motor using a potentiometer and the direction of the same motor
+**TASK2** - Control the speed of a motor using a potentiometer and the direction of the same motor
 with a push button.
 
 
-Components used: Arduino Uno, L298N motor driver, motor, push button, potentiometer, 
+**Components used:** Arduino Uno, L298N motor driver, motor, push button, potentiometer, 
 jumper wires.
 
-circuit connections :
+**Circuit connections :**
 At first, I took the motor driver. As we were only using one motor, I considered only one 
 section of the motor driver. I connected 2 output pins to the motor terminals and 
 connected the input pins to the Arduino. Input pin 1 to Arduino pin 13 and input pin 2 to the
@@ -19,16 +19,17 @@ process. And then I connected an EN, ENABLE pin of a motor driver to the PWM pin
  to the 5V logic. And also connected the Arduino ground pin to the breadboard common 
 ground railing.
 
- I defined a few pins, potpin as A0, and button 7, and PWM 3, terminal1 as 13 and terminal2 
+I defined a few pins, potpin as A0, and button 7, and PWM 3, terminal1 as 13 and terminal2 
 as 12.
+**Code Explaination**-
 
-The setup function,
+**The setup function,**
  I set the Arduino pin 13 to the output and 12 to output, which I used to connect to the 
 motor for powering them. And pin 7, which is connected to a button, as input_pullup, which
  makes keeps it in high as default rather than keeping it in low. And then, pin 3, which is a 
 PWM pin, used for controlling motor as output and potpin A0 pin as input. And then, in the
 
-the loop function, 
+**the loop function,**
  I declared a variable called value, which is assigned to a function
  analogRead potpin, which literally means it reads the potentiometer reading and then
  stores in a variable called value. And then, I declared another variable called speed and
