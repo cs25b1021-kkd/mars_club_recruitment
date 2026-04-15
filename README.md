@@ -2,8 +2,7 @@
 
 ## 👤 Name: Kuladeep K
 
-## 📌 Overview
-This repository contains all my tasks for Mars Club recruitment.
+## 📌 Overview  This repository contains all my tasks for Mars Club recruitment.
 
 ---
 
