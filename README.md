@@ -9,7 +9,7 @@ This repository contains all my tasks for Mars Club recruitment.
 
 ## 📂 TASK - 1
 
-👉 [View Write-up](./question1.md)  
+👉 [View task1 files](./task1)  
 
 
 
@@ -18,6 +18,6 @@ This repository contains all my tasks for Mars Club recruitment.
 
 ## 📂 TASK - 2
 
-👉 [View Write-up](./task2.md) 
+👉 [View task2 files](./task2) 
 
 
