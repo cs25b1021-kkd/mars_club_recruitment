@@ -3,7 +3,7 @@
 ## 👤 Name: Kuladeep K
 
 ## 📌 Overview
-This folder contains my write-up andd code for task 2 of Mars Club recruitment.
+This folder contains my write-up and code for task 2 of Mars Club recruitment.
 
 ---
 
