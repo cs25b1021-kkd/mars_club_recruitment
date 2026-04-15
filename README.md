@@ -3,11 +3,11 @@
 ## 👤 Name: Kuladeep K
 
 ## 📌 Overview
-This repository contains my answers and mini project for Mars Club recruitment.
+This repository contains my answers for Mars Club recruitment.
 
 ---
 
-## 📂 Questions
+## 📂 TASK - 1
 
 ### 🔹 Question 1
 👉 [View Write-up](./question1.md)  .👉.  [View Code](./question1.c)
@@ -25,3 +25,10 @@ This repository contains my answers and mini project for Mars Club recruitment.
 
 ## 🚀 Mini Project(additional)
 👉 [View Write-up](./miniproject1.md)  .👉.  [View Code](./miniproject1.c)
+
+## 📂 TASK - 2
+
+### 🔹 Question 1
+👉 [View Write-up](./task2.md)  .👉.  [View Code](./task2.c)
+
+
