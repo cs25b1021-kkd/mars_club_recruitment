@@ -19,9 +19,9 @@ process. And then I connected an EN, ENABLE pin of a motor driver to the PWM pin
  to the 5V logic. And also connected the Arduino ground pin to the breadboard common 
 ground railing.
 
+**Code Explaination**-
 I defined a few pins, potpin as A0, and button 7, and PWM 3, terminal1 as 13 and terminal2 
 as 12.
-**Code Explaination**-
 
 **The setup function,**
  I set the Arduino pin 13 to the output and 12 to output, which I used to connect to the 
