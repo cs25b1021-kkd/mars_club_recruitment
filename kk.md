@@ -8,7 +8,7 @@ Built as a hackathon project to address fragmented medical records, repeated dia
 
 ---
 ## Project Demo --- [Watch the MediVault demo](YOUR_VIDEO_LINK)
----
+
 
 ## 🚀 Problem Statement
 
