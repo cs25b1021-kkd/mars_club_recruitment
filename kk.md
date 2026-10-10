@@ -317,27 +317,7 @@ Stores:
 ## Patient
 
 ```
-Register
-
-↓
-
-Login
-
-↓
-
-Create Medical Profile
-
-↓
-
-Upload Reports
-
-↓
-
-Generate Emergency ID
-
-↓
-
-Maintain Lifetime Medical History
+Register -> Login -> Create Medical Profile -> Upload Reports -> Generate Emergency ID ->Maintain Lifetime Medical History
 ```
 
 ---
@@ -466,7 +446,7 @@ npm run build
 
 # 👨‍💻 Authors
 
-**Kuladeep Kottapalli**
+**Kuladeep Kottapalli**, 
 **Mohit Raghavendra**
 
 Hackathon Project
