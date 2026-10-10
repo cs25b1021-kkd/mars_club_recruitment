@@ -317,7 +317,7 @@ Stores:
 ## Patient
 
 ```
-Register -> Login -> Create Medical Profile -> Upload Reports -> Generate Emergency ID ->Maintain Lifetime Medical History
+Register -> Login -> Create Medical Profile -> Upload Reports -> Generate Emergency ID -> Maintain Lifetime Medical History
 ```
 
 ---
@@ -325,23 +325,7 @@ Register -> Login -> Create Medical Profile -> Upload Reports -> Generate Emerge
 ## Doctor
 
 ```
-Login
-
-↓
-
-Search Emergency ID
-
-↓
-
-Retrieve Patient Information
-
-↓
-
-View Medical Reports
-
-↓
-
-Provide Better Clinical Decisions
+Login -> Search Emergency ID -> Retrieve Patient Information -> View Medical Reports -> Provide Better Clinical Decisions
 ```
 
 ---
@@ -351,18 +335,7 @@ Provide Better Clinical Decisions
 ## Patient
 
 ```
-Register
-↓
-
-Supabase Auth
-
-↓
-
-Patient Profile
-
-↓
-
-Dashboard
+Register -> Supabase Auth -> Patient Profile -> Dashboard
 ```
 
 ---
@@ -370,19 +343,7 @@ Dashboard
 ## Doctor
 
 ```
-Pre-created Account
-
-↓
-
-Supabase Login
-
-↓
-
-Verify in Doctors Table
-
-↓
-
-Doctor Dashboard
+Pre-created Account -> Supabase Login -> Verify in Doctors Table -> Doctor Dashboard
 ```
 
 
