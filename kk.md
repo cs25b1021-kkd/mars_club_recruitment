@@ -369,7 +369,7 @@ Pre-created Account -> Supabase Login -> Verify in Doctors Table -> Doctor Dashb
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/medivault.git
+git clone https://github.com/kuladeep9363/medivault.git
 ```
 
 Go to the project directory
@@ -407,8 +407,8 @@ npm run build
 
 # 👨‍💻 Authors
 
-**Kuladeep Kottapalli**, 
-**Mohit Raghavendra**
+**Kuladeep K**, 
+**Mohit R**
 
 Hackathon Project
 
